@@ -37,7 +37,7 @@ newfile=input("Enter a name for new file:")
 copy(filename,newfile)
 ```
 ### OUTPUT:
-![](./output.png)
+![](./copyfile.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
